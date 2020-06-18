@@ -1,7 +1,9 @@
-package Testers2
+package Index
 
 import "fmt"
 
 func main() {
-	fmt.Println("Hi PEOPLE!")
+	for i := 0; i < 10; i++ {
+		fmt.Println("Hi PEOPLE!")
+	}
 }
